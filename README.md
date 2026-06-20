@@ -4,7 +4,7 @@
 
 This project presents the design and implementation of an autonomous Line Follower Robot using an Arduino Uno, IR sensors, and an L298N motor driver. The robot is capable of detecting and following a black line on a contrasting surface by continuously processing sensor inputs and adjusting motor movement in real time.
 
-The project demonstrates the application of embedded systems, sensor interfacing, motor control, and basic autonomous navigation principles.
+This project demonstrates the application of embedded systems, sensor interfacing, motor control, and basic autonomous navigation principles.
 
 ---
 
